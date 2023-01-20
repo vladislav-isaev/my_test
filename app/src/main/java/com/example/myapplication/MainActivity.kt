@@ -7,6 +7,13 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-     asd[[dfg[[dfg[dfg[pfdg[dfp[gp]]]]]]]]
+        sadasd
+
+        asdasd
+
+        sad
+        onProvideAssistData(onProvideAssistData(
+
+        ))
     }
 }
